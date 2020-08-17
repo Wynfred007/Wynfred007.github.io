@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Layout1-clone",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -21,11 +21,11 @@
         "display5Size": 1.5,
         "display7Font": "Rubik",
         "display7Size": 1,
-        "display4Font": "Rubik",
-        "display4Size": 1,
+        "display4Font": "Montserrat",
+        "display4Size": "1",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#805050",
@@ -40,6 +40,11 @@
         "css": "'Rubik', sans-serif",
         "name": "Rubik",
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
+      },
+      {
+        "css": "'Montserrat', sans-serif",
+        "name": "Montserrat",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
     "versionFirst": "4.7.6",
